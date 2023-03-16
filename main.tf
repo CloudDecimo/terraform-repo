@@ -1,5 +1,5 @@
 # terraform-repo
-for terraform testing activities
+# for terraform testing activities
 
 terraform {
  required_providers {
