@@ -4,6 +4,6 @@ resource "aws_instance" "dr_demo_env" {
 # key_name - "test_keypair"
 }
 
-tags {
+tags = {
     Name = "dr_demo_env"
 }
