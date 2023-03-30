@@ -5,5 +5,5 @@ resource "aws_instance" "dr_demo_env" {
 }
 
 tags = {
-    Name = "dr_demo_env"
+    Name = "dr_demo"
 }
